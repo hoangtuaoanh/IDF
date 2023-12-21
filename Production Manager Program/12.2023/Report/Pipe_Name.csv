@@ -1,0 +1,635 @@
+,CUSTOMER_CODE,CUSTOMER_GROUP,ITEM_CODE,Model,MaterialName,DIAMETER1,DIAMETER2,THICKNESS,LENGTH,ColorName,ProcessName,SurfaceName,INV_DV,HideInCUS030
+0,C07001,HONDA,|0200220139|31.80|0.00|2.600|0.000,,STKM11A,31.8,0.0,2.6,5300.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+1,C07008,YAMAHA,|0200220139|38.10|0.00|2.000|0.000,,STKM11A,38.1,0.0,2.0,390.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+2,C07032,HONDA,|0200226010|60.50|0.00|2.300|0.000,K1FA.K1GA,STAM390G,60.5,0.0,2.3,744.4,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+3,C07038,TTVN,|0200226642|25.40|0.00|1.600|0.000,,STKM17AM,25.4,0.0,1.6,409.4,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+4,C07002,YAMAHA,|0200226339|40.00|20.00|1.600|0.000,,STKMRR290,40.0,20.0,1.6,444.5,NBC,Grind Face,"Pickled and Oiled,Hot rolled steel",,False
+5,C07046,HONDA,|0200220810|25.40|0.00|2.600|0.000,,STKM13A,25.4,0.0,2.6,1010.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+6,C07295,OTHER,|0200220139|22.20|0.00|1.600|0.000,,STKM11A,22.2,0.0,1.6,287.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+7,C07005,YAMAHA,|0200230120|19.10|0.00|1.000|0.000,,STKM11A,19.1,0.0,1.0,5800.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+9,C07010,HONDA,|0200230742|25.00|55.00|1.600|0.000,,HSST590C,25.0,55.0,1.6,5780.0,IBC,As Cut,Cold  Rolled Steel ,,False
+10,C07011,HONDA,|0200220139|31.80|0.00|2.600|0.000,,STKM11A,31.8,0.0,2.6,5950.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+12,C07042,HONDA,|0200226010|48.60|0.00|3.500|0.000,K29-TC,STAM390G,48.6,0.0,3.5,5400.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+13,C07037,HONDA,|0200225939|19.10|0.00|2.300|0.000,K1FA,STAM290GA,19.1,0.0,2.3,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+14,C07037,HONDA,|0200226010|19.10|0.00|2.000|0.000,K0R,STAM390G,19.1,0.0,2.0,5900.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+19,C07019,,|0200230841|38.10|0.00|1.200|0.000,,STKM13A,38.1,0.0,1.2,5000.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+21,C07027,HONDA,|0200230120|35.00|0.00|1.200|0.000,,STKM11A,35.0,0.0,1.2,5800.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+23,C07035,,|0200230119|22.20|0.00|1.200|0.000,,STKM11A,22.2,0.0,1.2,5800.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+25,C07047,,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,900.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+26,C07048,VINFAST,|0200220139|22.20|0.00|1.600|0.000,,STKM11A,22.2,0.0,1.6,600.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+27,C07045,HONDA,|0200226010|34.00|0.00|2.600|0.000,,STAM390G,34.0,0.0,2.6,5850.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+28,C07052,OTHER,|0200220139|22.20|0.00|1.600|0.000,,STKM11A,22.2,0.0,1.6,5503.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+29,C07049,VINFAST,|0200226010|22.20|0.00|2.000|0.000,,STAM390G,22.2,0.0,2.0,6370.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+31,C07053,,|0200226339|50.00|30.00|1.600|0.000,,STKMRR290,50.0,30.0,1.6,6350.0,NBC,As Cut,"Pickled and Oiled,Hot rolled steel",,False
+34,C07056,HONDA,|0200225939|19.10|0.00|2.300|0.000,,STAM290GA,19.1,0.0,2.3,6000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+36,C07058,OTHER,|0200226010|25.40|0.00|2.000|0.000,YEDEAR,STAM390G,25.4,0.0,2.0,6372.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+37,C07056,OTHER,|0200226010|25.40|0.00|1.600|0.000,YEADER,STAM390G,25.4,0.0,1.6,5763.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+39,C07035,VINFAST,|0200226010|28.60|0.00|2.000|0.000,,STAM390G,28.6,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+40,C07053,,|0200210911|125.00|75.00|3.200|0.000,,STKR400,125.0,75.0,3.2,4100.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+41,C07052,OTHER,|0200220139|15.90|0.00|2.300|0.000,,STKM11A,15.9,0.0,2.3,6161.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+42,C07037,HONDA,|0200226010|19.10|0.00|2.000|0.000,K2TA,STAM390G,19.1,0.0,2.0,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+44,C07050,VINFAST,|0200226339|40.00|20.00|2.300|0.000,VF,STKMRR290,40.0,20.0,2.3,200.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+45,C07049,VINFAST,|0200226010|22.20|0.00|2.000|0.000,,STAM390G,22.2,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+47,C07045,HONDA,|0200225900|15.00|10.30|2.350|0.000,,STAM290GA,15.0,10.3,2.35,5700.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+48,C07048,VINFAST,|0200220139|22.20|0.00|1.600|0.000,,STKM11A,22.2,0.0,1.6,950.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+50,C07042,HONDA,|0200225926|48.60|0.00|3.500|0.000,K56R,STAM290GA,48.6,0.0,3.5,5195.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+53,C07019,,|0200230841|38.10|0.00|1.200|0.000,,STKM13A,38.1,0.0,1.2,6000.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+57,C07029,HONDA,|0200225900|15.00|10.30|2.350|0.000,K0RA,STAM290GA,15.0,10.3,2.35,5900.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+58,C07032,HONDA,|0200226010|22.20|0.00|2.000|0.000,SP,STAM390G,22.2,0.0,2.0,757.0,IBC,Punching,"Pickled and Oiled,Hot rolled steel",,False
+62,C07005,YAMAHA,|0200230119|22.20|0.00|1.200|0.000,,STKM11A,22.2,0.0,1.2,5670.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+63,C07038,TTVN,|0200220139|22.20|0.00|1.800|0.000,,STKM11A,22.2,0.0,1.8,428.9,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+64,C07046,HONDA,|0200220810|50.00|20.00|1.600|0.000,,STKM13A,50.0,20.0,1.6,918.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+65,C07001,HONDA,|0200220139|31.80|0.00|2.600|0.000,,STKM11A,31.8,0.0,2.6,5600.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+66,C07295,OTHER,|0200220810|19.10|0.00|1.600|0.000,,STKM13A,19.1,0.0,1.6,100.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+67,C07002,YAMAHA,|0200226339|40.00|20.00|2.300|0.000,,STKMRR290,40.0,20.0,2.3,1055.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+68,C07032,HONDA,|0200262901|22.20|0.00|1.200|0.000,K12,SUS409L,22.2,0.0,1.2,449.6,IBC,Brushing,Cold  Rolled Steel ,,False
+69,C07038,TTVN,|0200220139|12.70|0.00|2.000|0.000,,STKM11A,12.7,0.0,2.0,396.3,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+70,C07046,HONDA,|0200230120|28.60|0.00|1.200|0.000,,STKM11A,28.6,0.0,1.2,410.0,IBC,Brushing,Cold  Rolled Steel ,,False
+71,C07002,YAMAHA,|0200226339|40.00|20.00|2.300|0.000,,STKMRR290,40.0,20.0,2.3,1064.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+73,C07005,YAMAHA,|0200230119|22.20|0.00|1.200|0.000,,STKM11A,22.2,0.0,1.2,5800.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+74,C07031,HONDA,|0200226010|15.90|0.00|2.000|0.000,K56,STAM390G,15.9,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+79,C07008,HONDA,|0200226010|31.80|0.00|2.600|0.000,,STAM390G,31.8,0.0,2.6,206.4,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+81,C07042,HONDA,|0200225926|48.60|0.00|3.500|0.000,K56R,STAM290GA,48.6,0.0,3.5,5300.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+83,C07048,VINFAST,|0200226339|40.00|20.00|2.300|0.000,,STKMRR290,40.0,20.0,2.3,450.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+85,C07295,OTHER,|0200226339|50.00|30.00|1.600|0.000,,STKMRR290,50.0,30.0,1.6,737.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+87,C07037,HONDA,|0200225939|19.10|0.00|2.300|0.000,KWW,STAM290GA,19.1,0.0,2.3,6000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+88,C07035,VINFAST,|0200220810|34.00|0.00|2.600|0.000,,STKM13A,34.0,0.0,2.6,5850.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+89,C07049,VINFAST,|0200226010|17.30|0.00|2.000|0.000,,STAM390G,17.3,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+90,C07056,HONDA,|0200225939|19.10|0.00|2.300|0.000,,STAM290GA,19.1,0.0,2.3,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+91,C07035,VINFAST,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,82.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+92,C07049,VINFAST,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+93,C07042,VINFAST,|0200220126|42.70|0.00|3.500|0.000,,STKM11A,42.7,0.0,3.5,286.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+95,C07050,VINFAST,|0200220139|22.20|0.00|2.000|0.000,VF,STKM11A,22.2,0.0,2.0,633.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+96,C07002,YAMAHA,|0200220810|38.10|0.00|2.300|0.000,,STKM13A,38.1,0.0,2.3,1225.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+97,C07295,OTHER,|0200226339|50.00|30.00|1.600|0.000,,STKMRR290,50.0,30.0,1.6,587.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+99,C07048,VINFAST,|0200220139|28.60|0.00|2.000|0.000,,STKM11A,28.6,0.0,2.0,130.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+103,C07029,HONDA,|0200226010|19.10|0.00|1.600|0.000,,STAM390G,19.1,0.0,1.6,5860.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+104,C07032,HONDA,|0200226010|22.20|0.00|2.000|0.000,SP,STAM390G,22.2,0.0,2.0,737.0,IBC,Punching,"Pickled and Oiled,Hot rolled steel",,False
+105,C07030,HONDA,|0200226010|19.10|0.00|1.600|0.000,K2TA,STAM390G,19.1,0.0,1.6,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+107,C07011,HONDA,|0200226010|32.00|32.00|2.300|0.000,,STAM390G,32.0,32.0,2.3,6000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+108,C07031,HONDA,|0200225900|21.70|16.50|2.600|0.000,K56,STAM290GA,21.7,16.5,2.6,5400.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+109,C07005,YAMAHA,|0200220139|22.20|0.00|2.300|0.000,,STKM11A,22.2,0.0,2.3,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+111,C07038,TTVN,|0200230119|25.40|0.00|1.200|0.000,,STKM11A,25.4,0.0,1.2,467.4,NBC,Brushing,Cold  Rolled Steel ,,False
+113,C07032,HONDA,|0200262901|22.20|0.00|1.200|0.000,K12,SUS409L,22.2,0.0,1.2,435.0,IBC,Brushing,Cold  Rolled Steel ,,False
+114,C07038,TTVN,|0200220139|25.40|0.00|1.800|0.000,,STKM11A,25.4,0.0,1.8,469.4,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+115,C07001,HONDA,|0200225900|15.00|10.30|2.350|0.000,,STAM290GA,15.0,10.3,2.35,5700.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+116,C07005,YAMAHA,|0200230120|28.60|0.00|1.200|0.000,,STKM11A,28.6,0.0,1.2,5300.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+117,C07031,HONDA,|0200226010|19.10|0.00|1.400|0.000,,STAM390G,19.1,0.0,1.4,5550.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+118,C07011,HONDA,|0200226010|48.60|0.00|3.500|0.000,K2CA/K2CF/K1NA/K1NF/K2TA/K2ZA,STAM390G,48.6,0.0,3.5,5880.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+120,C07030,HONDA,|0200226010|17.30|0.00|1.400|0.000,K2TA,STAM390G,17.3,0.0,1.4,5550.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+121,C07029,HONDA,|0200226010|19.10|0.00|1.600|0.000,,STAM390G,19.1,0.0,1.6,5460.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+122,C07008,HONDA,|0200226010|54.00|20.00|2.000|0.000,,STAM390G,54.0,20.0,2.0,565.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+124,C07048,VINFAST,|0200226010|28.60|0.00|3.200|0.000,,STAM390G,28.6,0.0,3.2,306.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+126,C07295,OTHER,|0200226339|40.00|20.00|1.600|0.000,,STKMRR290,40.0,20.0,1.6,6450.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+127,C07002,YAMAHA,|0200220810|38.10|0.00|2.300|0.000,,STKM13A,38.1,0.0,2.3,1193.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+129,C07049,VINFAST,|0200220139|19.10|0.00|2.000|0.000,,STKM11A,19.1,0.0,2.0,5680.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+130,C07035,VINFAST,|0200220139|28.60|0.00|2.000|0.000,,STKM11A,28.6,0.0,2.0,6475.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+131,C07045,HONDA,|0200236041|22.20|0.00|1.200|0.000,,STAM390G,22.2,0.0,1.2,5570.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+132,C07042,YEADER,|0200226010|42.70|0.00|3.200|0.000,,STAM390G,42.7,0.0,3.2,5070.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+133,C07045,HONDA,|0200230742|22.20|0.00|1.400|0.000,,HSST590C,22.2,0.0,1.4,5580.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+134,C07035,VINFAST,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,5460.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+135,C07049,VINFAST,|0200226010|22.20|0.00|2.000|0.000,,STAM390G,22.2,0.0,2.0,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+136,C07050,VINFAST,|0200226339|40.00|20.00|2.300|0.000,VF,STKMRR290,40.0,20.0,2.3,426.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+137,C07002,YAMAHA,|0200220810|48.60|0.00|2.300|0.000,,STKM13A,48.6,0.0,2.3,1148.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+138,C07295,OTHER,|0200226010|42.70|0.00|1.600|0.000,,STAM390G,42.7,0.0,1.6,1020.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+140,C07030,HONDA,|0200226010|19.10|0.00|1.600|0.000,K2TA,STAM390G,19.1,0.0,1.6,5700.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+141,C07048,VINFAST,|0200226339|40.00|20.00|2.300|0.000,,STKMRR290,40.0,20.0,2.3,220.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+143,C07008,VINFAST,|0200220126|42.70|0.00|3.500|0.000,,STKM11A,42.7,0.0,3.5,273.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+144,C07029,HONDA,|0200226010|19.10|0.00|1.600|0.000,K2TA,STAM390G,19.1,0.0,1.6,6400.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+145,C07032,HONDA,|0200226010|22.20|0.00|2.000|0.000,SP,STAM390G,22.2,0.0,2.0,738.0,IBC,Punching,"Pickled and Oiled,Hot rolled steel",,False
+147,C07011,HONDA,|0200230742|25.00|55.00|1.600|0.000,,HSST590C,25.0,55.0,1.6,548.0,IBC,Grind Face,Cold  Rolled Steel ,,False
+148,C07031,HONDA,|0200226010|19.10|0.00|1.600|0.000,"K2CA,K2SG",STAM390G,19.1,0.0,1.6,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+149,C07005,YAMAHA,|0200230120|38.10|0.00|1.200|0.000,,STKM11A,38.1,0.0,1.2,5450.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+151,C07038,TTVN,|0200230841|28.60|0.00|1.200|0.000,,STKM13A,28.6,0.0,1.2,407.3,NBC,Brushing,Cold  Rolled Steel ,,False
+152,C07032,HONDA,|0200262901|22.20|0.00|1.200|0.000,K1FA.K1GA,SUS409L,22.2,0.0,1.2,485.0,IBC,Brushing,Cold  Rolled Steel ,,False
+153,C07038,TTVN,|0200230841|28.60|0.00|1.200|0.000,,STKM13A,28.6,0.0,1.2,618.1,NBC,Brushing,Cold  Rolled Steel ,,False
+154,C07001,HONDA,|0200226010|15.90|0.00|2.000|0.000,,STAM390G,15.9,0.0,2.0,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+155,C07005,YAMAHA,|0200230119|45.00|0.00|1.200|0.000,,STKM11A,45.0,0.0,1.2,5600.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+156,C07031,HONDA,|0200226010|19.10|0.00|2.000|0.000,K1F,STAM390G,19.1,0.0,2.0,5460.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+157,C07011,HONDA,|0200230742|25.00|55.00|1.600|0.000,,HSST590C,25.0,55.0,1.6,549.0,IBC,Grind Face,Cold  Rolled Steel ,,False
+162,C07048,VINFAST,|0200220139|28.60|0.00|2.000|0.000,,STKM11A,28.6,0.0,2.0,150.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+163,C07295,OTHER,|0200226010|38.10|0.00|2.000|0.000,,STAM390G,38.1,0.0,2.0,80.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+164,C07002,YAMAHA,|0200220139|38.10|0.00|2.000|0.000,,STKM11A,38.1,0.0,2.0,274.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+167,C07030,HONDA,|0200226010|22.20|0.00|2.900|0.000,K2ZA.K3AA,STAM390G,22.2,0.0,2.9,5700.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+168,C07035,VINFAST,|0200220810|38.10|0.00|2.000|0.000,,STKM13A,38.1,0.0,2.0,531.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+169,C07045,HONDA,|0200226010|25.40|0.00|3.200|0.000,,STAM390G,25.4,0.0,3.2,5460.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+170,C07030,HONDA,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+171,C07035,VINFAST,|0200226540|50.00|30.00|2.300|0.000,,STKMRHT590,50.0,30.0,2.3,526.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+172,C07027,OTHER,|0200230120|28.60|0.00|1.200|0.000,CMS,STKM11A,28.6,0.0,1.2,5850.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+174,C07002,YAMAHA,|0200220139|31.80|0.00|2.000|0.000,,STKM11A,31.8,0.0,2.0,422.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+175,C07295,OTHER,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,903.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+176,C07048,VINFAST,|0200226010|25.40|0.00|2.600|0.000,,STAM390G,25.4,0.0,2.6,275.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+178,C07008,VINFAST,|0200220810|34.00|0.00|2.600|0.000,V5 LIFE,STKM13A,34.0,0.0,2.6,1415.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+181,C07031,HONDA,|0200226010|22.20|0.00|1.600|0.000,AT,STAM390G,22.2,0.0,1.6,5900.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+182,C07005,YAMAHA,|0200226240|22.20|0.00|1.600|0.000,,STKMHT590,22.2,0.0,1.6,5400.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+183,C07001,HONDA,|0200226010|17.30|0.00|1.400|0.000,K1YA/K1ZA,STAM390G,17.3,0.0,1.4,5300.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+184,C07032,HONDA,|0200235920|25.40|0.00|1.200|0.000,SP,STAM290GA,25.4,0.0,1.2,527.0,IBC,Brushing,Cold  Rolled Steel ,,False
+185,C07038,TTVN,|0200230841|12.70|0.00|1.200|0.000,,STKM13A,12.7,0.0,1.2,963.5,NBC,Brushing,Cold  Rolled Steel ,,False
+186,C07032,HONDA,|0200226010|54.00|0.00|2.900|0.000,SP,STAM390G,54.0,0.0,2.9,700.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+187,C07038,TTVN,|0200230841|25.40|0.00|1.200|0.000,,STKM13A,25.4,0.0,1.2,457.9,NBC,Brushing,Cold  Rolled Steel ,,False
+188,C07002,YAMAHA,|0200220139|22.20|0.00|2.000|0.000,,STKM11A,22.2,0.0,2.0,379.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+189,C07001,HONDA,|0200226010|17.30|0.00|1.600|0.000,,STAM390G,17.3,0.0,1.6,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+190,C07005,YAMAHA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,5550.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+191,C07031,HONDA,|0200226010|25.40|0.00|1.600|0.000,K1F,STAM390G,25.4,0.0,1.6,5861.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+192,C07029,HONDA,|0200226010|19.10|0.00|2.300|0.000,,STAM390G,19.1,0.0,2.3,5570.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+195,C07295,OTHER,|0200226010|42.70|0.00|1.600|0.000,,STAM390G,42.7,0.0,1.6,822.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+196,C07008,YAMAHA,|0200226117|38.10|0.00|1.800|0.000,BFM,STKMHT490,38.1,0.0,1.8,390.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+198,C07027,OTHER,|0200226010|31.80|0.00|1.400|0.000,CMS,STAM390G,31.8,0.0,1.4,5850.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+199,C07048,VINFAST,|0200220810|48.60|0.00|2.600|0.000,,STKM13A,48.6,0.0,2.6,563.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+200,C07035,VINFAST,|0200225939|15.90|0.00|2.000|0.000,,STAM290GA,15.9,0.0,2.0,1635.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+201,C07030,HONDA,|0200226010|17.30|0.00|1.400|0.000,K2TA,STAM390G,17.3,0.0,1.4,5295.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+202,C07035,VINFAST,|0200220810|19.10|0.00|2.000|0.000,,STKM13A,19.1,0.0,2.0,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+203,C07027,OTHER,|0200230120|35.00|0.00|1.200|0.000,CMS,STKM11A,35.0,0.0,1.2,5000.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+204,C07048,VINFAST,|0200220139|31.80|0.00|2.000|0.000,,STKM11A,31.8,0.0,2.0,336.8,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+207,C07295,OTHER,|0200230119|22.20|0.00|1.200|0.000,,STKM11A,22.2,0.0,1.2,61.5,NBC,Brushing,Cold  Rolled Steel ,,False
+209,C07011,HONDA,|0200226010|22.20|0.00|2.300|0.000,K2TA,STAM390G,22.2,0.0,2.3,6000.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+210,C07029,HONDA,|0200226010|22.20|0.00|1.400|0.000,,STAM390G,22.2,0.0,1.4,5420.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+211,C07031,HONDA,|0200226010|28.60|0.00|3.200|0.000,,STAM390G,28.6,0.0,3.2,6000.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+212,C07005,YAMAHA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,5710.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+213,C07001,HONDA,|0200226010|19.10|0.00|1.400|0.000,,STAM390G,19.1,0.0,1.4,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+214,C07032,HONDA,|0200226010|40.00|20.00|1.600|0.000,SP,STAM390G,40.0,20.0,1.6,899.5,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+215,C07038,TTVN,|0200230120|19.10|0.00|1.200|0.000,,STKM11A,19.1,0.0,1.2,427.8,NBC,Brushing,Cold  Rolled Steel ,,False
+216,C07002,YAMAHA,|0200220139|25.40|0.00|1.600|0.000,,STKM11A,25.4,0.0,1.6,845.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+217,C07032,HONDA,|0200262901|25.40|0.00|1.200|0.000,K1FA,SUS409L,25.4,0.0,1.2,500.0,IBC,Brushing,Cold  Rolled Steel ,,False
+218,C07038,TTVN,|0200226640|25.40|0.00|2.300|0.000,,STKM17AM,25.4,0.0,2.3,409.4,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+219,C07001,HONDA,|0200226010|19.10|0.00|1.400|0.000,,STAM390G,19.1,0.0,1.4,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+220,C07002,YAMAHA,|0200220139|76.30|0.00|2.000|0.000,,STKM11A,76.3,0.0,2.0,238.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+221,C07005,YAMAHA,|0200226240|25.40|0.00|1.600|0.000,,STKMHT590,25.4,0.0,1.6,5500.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+222,C07031,HONDA,|0200226010|25.40|0.00|2.000|0.000,,STAM390G,25.4,0.0,2.0,5000.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+223,C07029,HONDA,|0200226010|22.20|0.00|2.000|0.000,,STAM390G,22.2,0.0,2.0,5330.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+224,C07011,HONDA,|0200226010|32.00|32.00|2.300|0.000,,STAM390G,32.0,32.0,2.3,6050.0,NBC,As Cut,"Pickled and Oiled,Hot rolled steel",,False
+226,C07295,OTHER,|0200220139|25.40|0.00|1.600|0.000,,STKM11A,25.4,0.0,1.6,1390.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+228,C07048,VINFAST,|0200220139|38.10|0.00|2.000|0.000,,STKM11A,38.1,0.0,2.0,1292.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+229,C07050,VINFAST,|0200220810|34.00|0.00|2.000|0.000,V5 CITY,STKM13A,34.0,0.0,2.0,640.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+230,C07027,OTHER,|0200220139|35.00|0.00|1.500|0.000,CMS,STKM11A,35.0,0.0,1.5,5210.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+231,C07027,OTHER,|0200230120|28.60|0.00|1.200|0.000,CMS,STKM11A,28.6,0.0,1.2,5750.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+232,C07050,VINFAST,|0200220810|38.10|0.00|2.000|0.000,V5 CITY/V5 LITE,STKM13A,38.1,0.0,2.0,1150.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+233,C07048,VINFAST,|0200220139|22.20|0.00|2.000|0.000,,STKM11A,22.2,0.0,2.0,677.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+235,C07295,OTHER,|0200220810|19.10|0.00|1.600|0.000,,STKM13A,19.1,0.0,1.6,300.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+237,C07011,VINFAST,|0200226010|15.90|0.00|2.000|0.000,,STAM390G,15.9,0.0,2.0,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+238,C07029,HONDA,|0200226010|22.20|0.00|2.000|0.000,K2TA,STAM390G,22.2,0.0,2.0,5680.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+239,C07032,HONDA,|0200226010|22.20|0.00|2.000|0.000,K1FA.K1GA -->K2ZA/K3AA,STAM390G,22.2,0.0,2.0,740.5,IBC,Punching,"Pickled and Oiled,Hot rolled steel",,False
+240,C07005,YAMAHA,|0200226240|25.40|0.00|2.000|0.000,,STKMHT590,25.4,0.0,2.0,5400.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+241,C07002,YAMAHA,|0200220139|34.00|0.00|3.500|0.000,,STKM11A,34.0,0.0,3.5,45.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+242,C07001,HONDA,|0200226010|19.10|0.00|1.600|0.000,,STAM390G,19.1,0.0,1.6,5000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+243,C07038,TTVN,|0200220810|38.10|0.00|2.600|0.000,,STKM13A,38.1,0.0,2.6,476.2,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+244,C07038,TTVN,|0200220810|38.10|0.00|2.600|0.000,,STKM13A,38.1,0.0,2.6,687.7,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+245,C07002,YAMAHA,|0200226240|28.60|0.00|1.600|0.000,,STKMHT590,28.6,0.0,1.6,341.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+247,C07005,YAMAHA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,5760.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+248,C07032,HONDA,|0200226010|22.20|0.00|2.000|0.000,K2CA,STAM390G,22.2,0.0,2.0,741.0,IBC,Punching,"Pickled and Oiled,Hot rolled steel",,False
+249,C07029,HONDA,|0200226010|22.20|0.00|2.000|0.000,,STAM390G,22.2,0.0,2.0,5160.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+250,C07011,HONDA,|0200225939|19.10|0.00|2.600|0.000,,STAM290GA,19.1,0.0,2.6,6000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+252,C07295,OTHER,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,402.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+253,C07008,YAMAHA,|0200220139|28.60|0.00|2.000|0.000,,STKM11A,28.6,0.0,2.0,219.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+254,C07031,HONDA,|0200226010|28.60|0.00|3.200|0.000,K56,STAM390G,28.6,0.0,3.2,5925.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+255,C07048,VINFAST,|0200226339|40.00|20.00|2.300|0.000,,STKMRR290,40.0,20.0,2.3,426.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+256,C07050,VINFAST,|0200220810|34.00|0.00|2.000|0.000,V5 LITE,STKM13A,34.0,0.0,2.0,780.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+257,C07027,OTHER,|0200230120|28.60|0.00|1.200|0.000,CMS,STKM11A,28.6,0.0,1.2,5510.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+258,C07027,OTHER,|0200230120|28.60|0.00|1.200|0.000,CMS,STKM11A,28.6,0.0,1.2,5650.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+259,C07050,VINFAST,|0200220810|48.60|0.00|2.600|0.000,V5 CITY/V5 LITE/VF,STKM13A,48.6,0.0,2.6,550.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+260,C07048,VINFAST,|0200230120|22.20|0.00|1.200|0.000,,STKM11A,22.2,0.0,1.2,845.0,NBC,Brushing,Cold  Rolled Steel ,,False
+261,C07008,VINFAST,|0200220810|48.60|0.00|2.600|0.000,"V5 CITY, V5 LIFE",STKM13A,48.6,0.0,2.6,805.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+262,C07295,OTHER,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,6000.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+266,C07011,VINFAST,|0200220139|25.40|0.00|2.000|0.000,,STKM11A,25.4,0.0,2.0,5870.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+268,C07001,HONDA,|0200226010|19.10|0.00|2.000|0.000,K1WA-HII,STAM390G,19.1,0.0,2.0,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+269,C07005,YAMAHA,|0200262901|45.00|0.00|1.200|0.000,,SUS409L,45.0,0.0,1.2,1000.0,NBC,Brushing,Cold  Rolled Steel ,,False
+270,C07038,TTVN,|0200220810|19.10|0.00|2.300|0.000,,STKM13A,19.1,0.0,2.3,371.7,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+271,C07002,YAMAHA,|0200226240|28.60|0.00|1.600|0.000,,STKMHT590,28.6,0.0,1.6,363.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+273,C07038,TTVN,|0200220139|25.40|0.00|1.600|0.000,,STKM11A,25.4,0.0,1.6,1488.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+274,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,312.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+275,C07001,HONDA,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,5000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+276,C07029,HONDA,|0200226010|25.40|0.00|1.400|0.000,,STAM390G,25.4,0.0,1.4,5470.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+277,C07031,HONDA,|0200226010|31.80|0.00|2.600|0.000,K56,STAM390G,31.8,0.0,2.6,5600.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+279,C07295,OTHER,|0200226339|50.00|30.00|1.600|0.000,,STKMRR290,50.0,30.0,1.6,6450.0,NBC,As Cut,"Pickled and Oiled,Hot rolled steel",,False
+280,C07008,VINFAST,|0200220139|25.40|0.00|2.600|0.000,,STKM11A,25.4,0.0,2.6,274.7,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+281,C07048,VINFAST,|0200220139|38.10|0.00|2.000|0.000,,STKM11A,38.1,0.0,2.0,1340.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+282,C07011,VINFAST,|0200225939|15.90|0.00|1.600|0.000,,STAM290GA,15.9,0.0,1.6,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+283,C07050,VINFAST,|0200220126|42.70|0.00|3.500|0.000,V5 CITY,STKM11A,42.7,0.0,3.5,268.1,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+284,C07027,OTHER,|0200226010|31.80|0.00|1.400|0.000,CMS,STAM390G,31.8,0.0,1.4,5750.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+285,C07027,OTHER,|0200226010|31.80|0.00|1.400|0.000,CMS,STAM390G,31.8,0.0,1.4,5510.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+286,C07048,VINFAST,|0200226010|34.00|0.00|2.000|0.000,,STAM390G,34.0,0.0,2.0,229.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+287,C07050,VINFAST,|0200220139|38.10|0.00|2.000|0.000,VF,STKM11A,38.1,0.0,2.0,1500.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+288,C07011,VINFAST,|0200226010|22.20|0.00|2.000|0.000,,STAM390G,22.2,0.0,2.0,5999.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+289,C07008,YAMAHA,|0200220139|15.90|0.00|2.300|0.000,BFM,STKM11A,15.9,0.0,2.3,270.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+290,C07295,OTHER,|0200230119|22.20|0.00|1.200|0.000,,STKM11A,22.2,0.0,1.2,5800.0,NBC,Brushing,Cold  Rolled Steel ,,False
+291,C07032,HONDA,|0200226010|38.10|0.00|2.000|0.000,SP,STAM390G,38.1,0.0,2.0,908.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+292,C07031,HONDA,|0200226010|22.20|0.00|2.000|0.000,K12/K2TA/K2SG,STAM390G,22.2,0.0,2.0,5360.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+294,C07001,HONDA,|0200226010|22.20|0.00|2.000|0.000,"K1WF
+",STAM390G,22.2,0.0,2.0,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+296,C07038,TTVN,|0200220810|19.10|0.00|1.600|0.000,,STKM13A,19.1,0.0,1.6,450.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+297,C07002,YAMAHA,|0200226117|25.40|0.00|1.600|0.000,,STKMHT490,25.4,0.0,1.6,665.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+299,C07001,HONDA,|0200226010|22.20|0.00|2.300|0.000,K2PJ,STAM390G,22.2,0.0,2.3,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+300,C07038,TTVN,|0200220810|19.10|0.00|1.600|0.000,,STKM13A,19.1,0.0,1.6,636.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+301,C07002,YAMAHA,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,68.4,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+303,C07032,HONDA,|0200226010|38.10|0.00|2.000|0.000,SP,STAM390G,38.1,0.0,2.0,908.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+304,C07031,HONDA,|0200226010|42.70|0.00|1.400|0.000,K2TA-VT,STAM390G,42.7,0.0,1.4,5420.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+305,C07008,YAMAHA,|0200226117|38.10|0.00|1.800|0.000,,STKMHT490,38.1,0.0,1.8,100.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+306,C07011,VINFAST,|0200226010|34.00|0.00|2.000|0.000,,STAM390G,34.0,0.0,2.0,6000.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+307,C07295,OTHER,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,747.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+308,C07050,VINFAST,|0200220139|22.20|0.00|2.000|0.000,VF,STKM11A,22.2,0.0,2.0,670.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+309,C07027,OTHER,|0200226010|31.80|0.00|1.400|0.000,CMS,STAM390G,31.8,0.0,1.4,5650.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+310,C07050,VINFAST,|0200220139|38.10|0.00|2.000|0.000,VF,STKM11A,38.1,0.0,2.0,1340.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+311,C07295,OTHER,|0200220810|19.10|0.00|1.600|0.000,,STKM13A,19.1,0.0,1.6,290.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+312,C07032,HONDA,|0200226010|45.00|0.00|2.300|0.000,K2TA,STAM390G,45.0,0.0,2.3,736.5,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+313,C07008,YAMAHA,|0200220139|12.70|0.00|2.000|0.000,BFM,STKM11A,12.7,0.0,2.0,280.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+314,C07011,VINFAST,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,6300.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+317,C07002,YAMAHA,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,121.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+319,C07001,HONDA,|0200226010|22.20|0.00|2.900|0.000,K1YA/K1ZA,STAM390G,22.2,0.0,2.9,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+320,C07001,HONDA,|0200226010|25.40|0.00|1.600|0.000,,STAM390G,25.4,0.0,1.6,5100.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+321,C07038,TTVN,|0200220810|25.40|0.00|1.400|0.000,,STKM13A,25.4,0.0,1.4,474.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+322,C07002,YAMAHA,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,110.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+323,C07005,YAMAHA,|0200230119|22.20|0.00|1.200|0.000,,STKM11A,22.2,0.0,1.2,6000.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+324,C07031,HONDA,|0200225900|15.00|10.30|2.350|0.000,"K2CA, K1NA",STAM290GA,15.0,10.3,2.35,5700.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+326,C07011,VINFAST,|0200226010|28.60|0.00|2.000|0.000,,STAM390G,28.6,0.0,2.0,6000.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+328,C07295,OTHER,|0200220810|19.10|0.00|1.600|0.000,,STKM13A,19.1,0.0,1.6,801.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+329,C07050,VINFAST,|0200220810|34.00|0.00|2.000|0.000,V5 LITE,STKM13A,34.0,0.0,2.0,735.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+330,C07050,VINFAST,|0200220810|48.60|0.00|2.600|0.000,V5 CITY/V5 LITE/VF,STKM13A,48.6,0.0,2.6,532.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+331,C07295,OTHER,|0200220139|25.40|0.00|1.600|0.000,,STKM11A,25.4,0.0,1.6,1266.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+332,C07032,HONDA,|0200226010|40.00|20.00|1.600|0.000,K56,STAM390G,40.0,20.0,1.6,741.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+333,C07011,HONDA,|0200230742|25.00|55.00|1.600|0.000,K56R/K2PF/K2PA,HSST590C,25.0,55.0,1.6,551.0,IBC,Grind Face,Cold  Rolled Steel ,,False
+334,C07029,HONDA,|0200226010|31.80|0.00|1.400|0.000,,STAM390G,31.8,0.0,1.4,5240.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+336,C07005,YAMAHA,|0200220139|22.20|0.00|2.000|0.000,,STKM11A,22.2,0.0,2.0,5800.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+337,C07038,TTVN,|0200220810|25.40|0.00|1.600|0.000,,STKM13A,25.4,0.0,1.6,515.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+338,C07002,YAMAHA,|0200226240|19.10|0.00|1.600|0.000,,STKMHT590,19.1,0.0,1.6,380.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+340,C07001,HONDA,|0200226010|25.40|0.00|2.600|0.000,K1NA/K1NF,STAM390G,25.4,0.0,2.6,5100.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+341,C07038,TTVN,|0200220810|25.40|0.00|1.600|0.000,,STKM13A,25.4,0.0,1.6,567.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+342,C07002,YAMAHA,|0200226240|19.10|0.00|1.600|0.000,,STKMHT590,19.1,0.0,1.6,362.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+345,C07029,HONDA,|0200226010|31.80|0.00|2.600|0.000,,STAM390G,31.8,0.0,2.6,5350.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+346,C07011,HONDA,|0200230742|25.00|55.00|1.600|0.000,K56R/K2PF/K2PA,HSST590C,25.0,55.0,1.6,552.0,IBC,Grind Face,Cold  Rolled Steel ,,False
+347,C07032,HONDA,|0200262901|25.40|0.00|1.200|0.000,K2ZA/K3AA,SUS409L,25.4,0.0,1.2,330.0,IBC,Brushing,Cold  Rolled Steel ,,False
+348,C07295,OTHER,|0200226240|28.60|0.00|1.600|0.000,,STKMHT590,28.6,0.0,1.6,80.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+349,C07295,OTHER,|0200226010|31.80|0.00|1.400|0.000,,STAM390G,31.8,0.0,1.4,895.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+350,C07032,HONDA,|0200262901|22.20|0.00|1.200|0.000,K2ZA/K3AA,SUS409L,22.2,0.0,1.2,338.0,IBC,Brushing,Cold  Rolled Steel ,,False
+351,C07011,HONDA,|0200226010|31.80|0.00|1.600|0.000,,STAM390G,31.8,0.0,1.6,5900.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+354,C07005,YAMAHA,|0200230120|35.00|0.00|1.200|0.000,,STKM11A,35.0,0.0,1.2,5800.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+355,C07038,TTVN,|0200220810|25.40|0.00|1.600|0.000,,STKM13A,25.4,0.0,1.6,740.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+356,C07002,YAMAHA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,696.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+357,C07001,HONDA,|0200226010|25.40|0.00|3.200|0.000,K1NA/K1NF,STAM390G,25.4,0.0,3.2,5100.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+358,C07001,VINFAST,|0200226010|32.00|32.00|2.300|0.000,,STAM390G,32.0,32.0,2.3,5500.0,IBC,As Cut,"Pickled and Oiled,Hot rolled steel",,False
+359,C07002,YAMAHA,|0200226240|35.00|0.00|2.600|0.000,,STKMHT590,35.0,0.0,2.6,765.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+361,C07029,HONDA,|0200236041|22.20|0.00|1.200|0.000,,STAM390G,22.2,0.0,1.2,5480.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+363,C07005,YAMAHA,|0200220139|22.20|0.00|1.600|0.000,,STKM11A,22.2,0.0,1.6,6000.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+365,C07295,OTHER,|0200226240|28.60|0.00|1.600|0.000,,STKMHT590,28.6,0.0,1.6,5903.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+366,C07032,HONDA,|0200262901|22.20|0.00|1.200|0.000,,SUS409L,22.2,0.0,1.2,510.0,IBC,Brushing,Cold  Rolled Steel ,,False
+368,C07011,VINFAST,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,5700.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+371,C07038,TTVN,|0200226640|25.40|0.00|2.300|0.000,,STKM17AM,25.4,0.0,2.3,972.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+372,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,296.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+374,C07038,TTVN,|0200230841|19.10|0.00|1.200|0.000,,STKM13A,19.1,0.0,1.2,520.0,NBC,Brushing,Cold  Rolled Steel ,,False
+375,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,268.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+376,C07001,HONDA,|0200226010|42.70|0.00|1.600|0.000,,STAM390G,42.7,0.0,1.6,840.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+377,C07031,HONDA,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,5900.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+378,C07029,HONDA,|0200236041|28.60|0.00|1.200|0.000,,STAM390G,28.6,0.0,1.2,5070.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+379,C07011,VINFAST,|0200226010|28.60|0.00|2.000|0.000,,STAM390G,28.6,0.0,2.0,5500.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+381,C07032,HONDA,|0200226010|22.20|0.00|2.000|0.000,,STAM390G,22.2,0.0,2.0,741.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+382,C07005,YAMAHA,|0200220139|22.20|0.00|2.300|0.000,,STKM11A,22.2,0.0,2.3,726.0,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+383,C07011,HONDA,|0200226010|31.80|0.00|1.600|0.000,K2ZA/K3AA,STAM390G,31.8,0.0,1.6,5750.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+384,C07029,HONDA,|0200230742|22.20|0.00|1.400|0.000,,HSST590C,22.2,0.0,1.4,5350.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+385,C07031,HONDA,|0200226010|25.40|0.00|1.400|0.000,,STAM390G,25.4,0.0,1.4,6100.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+386,C07038,TTVN,|0200230841|25.40|0.00|1.200|0.000,,STKM13A,25.4,0.0,1.2,150.0,NBC,Brushing,Cold  Rolled Steel ,,False
+387,C07001,HONDA,|0200226010|42.70|0.00|2.000|0.000,,STAM390G,42.7,0.0,2.0,748.5,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+388,C07002,YAMAHA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,401.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+389,C07038,TTVN,|0200230841|25.40|0.00|1.200|0.000,,STKM13A,25.4,0.0,1.2,680.0,NBC,Brushing,Cold  Rolled Steel ,,False
+390,C07002,YAMAHA,|0200226240|19.10|0.00|2.000|0.000,,STKMHT590,19.1,0.0,2.0,634.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+391,C07001,HONDA,|0200226010|42.70|0.00|2.000|0.000,,STAM390G,42.7,0.0,2.0,860.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+394,C07011,VINFAST,|0200226010|15.90|0.00|1.600|0.000,,STAM390G,15.9,0.0,1.6,5670.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+395,C07005,YAMAHA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+399,C07038,TTVN,|0200230841|25.40|0.00|1.200|0.000,,STKM13A,25.4,0.0,1.2,742.0,NBC,Brushing,Cold  Rolled Steel ,,False
+400,C07002,YAMAHA,|0200226240|25.40|0.00|1.600|0.000,,STKMHT590,25.4,0.0,1.6,410.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+401,C07001,HONDA,|0200226010|48.60|0.00|3.500|0.000,,STAM390G,48.6,0.0,3.5,5400.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+402,C07011,HONDA,|0200226010|32.00|32.00|2.300|0.000,,STAM390G,32.0,32.0,2.3,5500.0,IBC,As Cut,"Pickled and Oiled,Hot rolled steel",,False
+405,C07038,TTVN,|0200230841|25.40|0.00|1.200|0.000,,STKM13A,25.4,0.0,1.2,1097.0,NBC,Brushing,Cold  Rolled Steel ,,False
+406,C07002,YAMAHA,|0200226240|25.40|0.00|1.600|0.000,,STKMHT590,25.4,0.0,1.6,266.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+407,C07031,HONDA,|0200226010|54.00|0.00|2.600|0.000,,STAM390G,54.0,0.0,2.6,4900.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+412,C07038,TTVN,|0200230841|28.60|0.00|1.200|0.000,,STKM13A,28.6,0.0,1.2,1298.0,NBC,Brushing,Cold  Rolled Steel ,,False
+413,C07002,YAMAHA,|0200226240|19.10|0.00|2.000|0.000,,STKMHT590,19.1,0.0,2.0,276.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+415,C07005,YAMAHA,|0200226240|22.20|0.00|2.300|0.000,,STKMHT590,22.2,0.0,2.3,6253.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+416,C07011,HONDA,|0200226010|31.80|0.00|1.600|0.000,,STAM390G,31.8,0.0,1.6,5820.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+417,C07011,HONDA,|0200226010|25.40|0.00|1.600|0.000,,STAM390G,25.4,0.0,1.6,5100.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+418,C07005,YAMAHA,|0200220139|31.80|0.00|2.000|0.000,,STKM11A,31.8,0.0,2.0,6475.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+419,C07001,HONDA,|0200226010|54.00|0.00|2.600|0.000,,STAM390G,54.0,0.0,2.6,5600.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+420,C07038,TTVN,|0200236643|28.60|0.00|1.200|0.000,,STKM17AM,28.6,0.0,1.2,1505.0,NBC,Brushing,Cold  Rolled Steel ,,False
+421,C07002,YAMAHA,|0200226240|31.80|0.00|2.000|0.000,,STKMHT590,31.8,0.0,2.0,303.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+423,C07029,HONDA,|0200226010|19.10|0.00|1.400|0.000,,STAM390G,19.1,0.0,1.4,5100.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+424,C07031,HONDA,|0200226010|42.70|0.00|1.400|0.000,K2TA,STAM390G,42.7,0.0,1.4,810.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+425,C07031,HONDA,|0200226010|42.70|0.00|1.600|0.000,K2TA,STAM390G,42.7,0.0,1.6,810.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+426,C07029,HONDA,|0200226010|42.70|0.00|2.300|0.000,K2TA,STAM390G,42.7,0.0,2.3,6100.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+427,C07038,TTVN,|0200220139|25.40|0.00|1.800|0.000,,STKM11A,25.4,0.0,1.8,463.4,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+429,C07002,YAMAHA,|0200226240|22.20|0.00|1.600|0.000,,STKMHT590,22.2,0.0,1.6,348.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+430,C07001,HONDA,|0200226010|54.00|0.00|3.200|0.000,,STAM390G,54.0,0.0,3.2,203.0,NBC,As Cut,"Pickled and Oiled,Hot rolled steel",,False
+431,C07011,HONDA,|0200226010|48.60|0.00|3.500|0.000,,STAM390G,48.6,0.0,3.5,5750.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+432,C07005,YAMAHA,|0200220139|17.30|0.00|2.300|0.000,,STKM11A,17.3,0.0,2.3,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+433,C07005,YAMAHA,|0200220139|25.40|0.00|2.000|0.000,,STKM11A,25.4,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+434,C07011,OTHER,|0200226240|31.80|0.00|3.200|0.000,,STKMHT590,31.8,0.0,3.2,5851.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+435,C07001,HONDA,|0200236041|17.30|0.00|1.200|0.000,K1BF-HII/K40H-HII,STAM390G,17.3,0.0,1.2,5400.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+436,C07002,YAMAHA,|0200220103|13.80|0.00|1.600|0.000,,STKM11A,13.8,0.0,1.6,120.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+438,C07038,TTVN,|0200220810|22.20|0.00|2.300|0.000,,STKM13A,22.2,0.0,2.3,372.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+439,C07029,HONDA,|0200226010|17.30|0.00|1.400|0.000,K1YA/K1ZA,STAM390G,17.3,0.0,1.4,5300.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+440,C07038,TTVN,|0200220810|19.10|0.00|2.300|0.000,,STKM13A,19.1,0.0,2.3,5100.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+443,C07002,YAMAHA,|0200226117|25.40|0.00|2.000|0.000,,STKMHT490,25.4,0.0,2.0,190.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+444,C07001,HONDA,|0200236041|17.30|0.00|1.200|0.000,K1BF-HII/K40H-HII,STAM390G,17.3,0.0,1.2,5600.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+445,C07005,YAMAHA,|0200220810|21.70|0.00|2.000|0.000,,STKM13A,21.7,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+446,C07011,HONDA,|0200235920|38.10|0.00|1.200|0.000,,STAM290GA,38.1,0.0,1.2,5450.0,IBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+447,C07011,VINFAST,|0200226010|28.60|0.00|2.000|0.000,,STAM390G,28.6,0.0,2.0,5820.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+448,C07005,YAMAHA,|0200220810|21.70|0.00|2.800|0.000,,STKM13A,21.7,0.0,2.8,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+449,C07001,HONDA,|0200236041|19.10|0.00|1.200|0.000,K1BF-HII/K40H-HII,STAM390G,19.1,0.0,1.2,5200.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+450,C07002,YAMAHA,|0200220810|31.80|0.00|1.600|0.000,,STKM13A,31.8,0.0,1.6,265.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+451,C07031,HONDA,|0200226010|19.10|0.00|1.600|0.000,K2CA/K2SG,STAM390G,19.1,0.0,1.6,5680.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+452,C07038,TTVN,|0200230841|19.10|0.00|1.200|0.000,,STKM13A,19.1,0.0,1.2,1575.0,NBC,Brushing,Cold  Rolled Steel ,,False
+453,C07029,HONDA,|0200226010|19.10|0.00|2.000|0.000,K66,STAM390G,19.1,0.0,2.0,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+454,C07029,HONDA,|0200226010|19.10|0.00|2.000|0.000,K12M,STAM390G,19.1,0.0,2.0,6050.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+455,C07038,TTVN,|0200230841|19.10|0.00|1.200|0.000,,STKM13A,19.1,0.0,1.2,1596.0,NBC,Brushing,Cold  Rolled Steel ,,False
+457,C07002,YAMAHA,|0200226117|31.80|0.00|2.000|0.000,,STKMHT490,31.8,0.0,2.0,606.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+459,C07002,YAMAHA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,443.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+462,C07038,TTVN,|0200230841|12.70|0.00|1.200|0.000,,STKM13A,12.7,0.0,1.2,2071.0,NBC,Brushing,Cold  Rolled Steel ,,False
+463,C07029,HONDA,|0200226010|19.10|0.00|2.300|0.000,K1NA,STAM390G,19.1,0.0,2.3,6265.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+464,C07029,HONDA,|0200226010|22.20|0.00|2.000|0.000,K12M,STAM390G,22.2,0.0,2.0,6250.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+465,C07038,TTVN,|0200230841|19.10|0.00|1.200|0.000,,STKM13A,19.1,0.0,1.2,1054.0,NBC,Brushing,Cold  Rolled Steel ,,False
+466,C07031,HONDA,|0200226010|25.40|0.00|2.000|0.000,,STAM390G,25.4,0.0,2.0,6372.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+467,C07001,HONDA,|0200226010|25.40|0.00|2.000|0.000,"K1WF
+",STAM390G,25.4,0.0,2.0,5200.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+468,C07002,YAMAHA,|0200226240|25.40|0.00|2.000|0.000,,STKMHT590,25.4,0.0,2.0,683.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+469,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,376.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+470,C07001,HONDA,|0200226010|38.10|0.00|2.600|0.000,K1WF,STAM390G,38.1,0.0,2.6,5000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+472,C07038,TTVN,|0200220810|22.20|0.00|1.600|0.000,,STKM13A,22.2,0.0,1.6,5900.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+474,C07029,HONDA,|0200226010|22.20|0.00|2.000|0.000,K0RA,STAM390G,22.2,0.0,2.0,6410.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+475,C07038,VINFAST,|0200220810|31.80|0.00|2.000|0.000,,STKM13A,31.8,0.0,2.0,6000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+478,C07002,YAMAHA,|0200226240|31.80|0.00|3.200|0.000,,STKMHT590,31.8,0.0,3.2,481.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+479,C07002,YAMAHA,|0200226240|31.80|0.00|3.200|0.000,,STKMHT590,31.8,0.0,3.2,469.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+480,C07038,TTVN,|0200226010|15.90|0.00|2.000|0.000,,STAM390G,15.9,0.0,2.0,5300.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+484,C07038,TTVN,|0200230841|12.70|0.00|1.200|0.000,,STKM13A,12.7,0.0,1.2,963.5,NBC,Brushing,Cold  Rolled Steel ,,False
+486,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,435.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+489,C07002,YAMAHA,|0200226117|19.10|0.00|2.000|0.000,,STKMHT490,19.1,0.0,2.0,570.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+490,C07031,HONDA,|0200236041|19.10|0.00|1.200|0.000,,STAM390G,19.1,0.0,1.2,5510.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+491,C07038,TTVN,|0200220810|25.40|0.00|1.600|0.000,,STKM13A,25.4,0.0,1.6,590.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+495,C07038,TTVN,|0200230841|25.40|0.00|1.200|0.000,,STKM13A,25.4,0.0,1.2,1271.0,NBC,Brushing,Cold  Rolled Steel ,,False
+496,C07031,HONDA,|0200226010|42.70|0.00|2.000|0.000,,STAM390G,42.7,0.0,2.0,6078.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+497,c07002,YAMAHA,|0200226240|19.10|0.00|1.600|0.000,,STKMHT590,19.1,0.0,1.6,296.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+498,C07002,YAMAHA,|0200226240|19.10|0.00|1.600|0.000,,STKMHT590,19.1,0.0,1.6,306.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+499,C07031,HONDA,|0200225939|19.10|0.00|2.300|0.000,,STAM290GA,19.1,0.0,2.3,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+500,C07038,TTVN,|0200220810|22.20|0.00|2.000|0.000,,STKM13A,22.2,0.0,2.0,416.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+501,C07029,HONDA,|0200226010|31.80|0.00|2.600|0.000,K56,STAM390G,31.8,0.0,2.6,6122.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+504,C07029,HONDA,|0200226010|31.80|0.00|1.400|0.000,K0RA,STAM390G,31.8,0.0,1.4,6300.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+507,C07038,TTVN,|0200220810|25.40|0.00|1.600|0.000,,STKM13A,25.4,0.0,1.6,1000.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+508,C07038,VINFAST,|0200220810|22.20|0.00|1.600|0.000,,STKM13A,22.2,0.0,1.6,6400.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+509,C07031,HONDA,|0200226010|42.70|0.00|2.000|0.000,,STAM390G,42.7,0.0,2.0,860.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+510,C07029,HONDA,|0200226010|42.70|0.00|2.000|0.000,,STAM390G,42.7,0.0,2.0,6078.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+514,C07029,HONDA,|0200236041|28.60|0.00|1.200|0.000,K1NA,STAM390G,28.6,0.0,1.2,6200.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+515,C07031,HONDA,|0200226010|42.70|0.00|1.600|0.000,K12K,STAM390G,42.7,0.0,1.6,845.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+517,C07038,TTVN,|0200220810|25.40|0.00|1.400|0.000,,STKM13A,25.4,0.0,1.4,418.1,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+518,C07038,TTVN,|0200220810|25.40|0.00|1.400|0.000,,STKM13A,25.4,0.0,1.4,617.8,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+519,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,401.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+520,C07029,HONDA,|0200226010|19.10|0.00|1.600|0.000,K2CA,STAM390G,19.1,0.0,1.6,6175.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+521,C07031,HONDA,|0200226010|42.70|0.00|1.600|0.000,K12K,STAM390G,42.7,0.0,1.6,845.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+524,C07029,HONDA,|0200236041|22.20|0.00|1.200|0.000,K2CA,STAM390G,22.2,0.0,1.2,6290.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+525,C07031,HONDA,|0200226010|22.20|0.00|2.000|0.000,K2ZA/K3AA,STAM390G,22.2,0.0,2.0,5340.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+526,C07002,YAMAHA,|0200220810|25.40|0.00|2.000|0.000,,STKM13A,25.4,0.0,2.0,369.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+527,C07038,TTVN,|0200221042|25.40|0.00|1.600|0.000,,STKM-550,25.4,0.0,1.6,632.7,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+528,C07038,TTVN,|0200231043|25.40|0.00|1.200|0.000,,STKM-550,25.4,0.0,1.2,399.9,NBC,Brushing,Cold  Rolled Steel ,,False
+529,C07002,YAMAHA,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,87.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+533,C07001,VINFAST,|0200220810|60.50|0.00|2.600|0.000,,STKM13A,60.5,0.0,2.6,5000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+534,C07029,HONDA,|0200236041|22.20|0.00|1.200|0.000,K2CA,STAM390G,22.2,0.0,1.2,6020.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+536,C07002,YAMAHA,|0200220810|19.10|0.00|1.600|0.000,,STKM13A,19.1,0.0,1.6,148.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+538,C07038,TTVN,|0200230841|25.40|0.00|1.000|0.000,,STKM13A,25.4,0.0,1.0,416.6,NBC,Brushing,Cold  Rolled Steel ,,False
+539,C07002,YAMAHA,|0200226117|38.10|0.00|1.800|0.000,,STKMHT490,38.1,0.0,1.8,1285.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+540,C07029,HONDA,|0200230742|22.20|0.00|1.400|0.000,K2CA,HSST590C,22.2,0.0,1.4,6335.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+543,C07001,HONDA,|0200226010|17.30|0.00|2.000|0.000,,STAM390G,17.3,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+544,C07029,HONDA,|0200230742|22.20|0.00|1.400|0.000,K2CA,HSST590C,22.2,0.0,1.4,6035.0,NBC,Piping(Pre-End),Cold  Rolled Steel ,,False
+545,C07031,HONDA,|0200226010|54.00|20.00|2.000|0.000,K56-B,STAM390G,54.0,20.0,2.0,560.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+546,C07002,YAMAHA,|0200226117|19.10|0.00|1.600|0.000,,STKMHT490,19.1,0.0,1.6,297.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+547,C07038,TTVN,|0200220810|12.70|0.00|1.600|0.000,,STKM13A,12.7,0.0,1.6,411.3,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+548,C07038,TTVN,|0200221042|25.40|0.00|1.600|0.000,,STKM-550,25.4,0.0,1.6,435.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+549,C07002,YAMAHA,|0200220810|60.50|0.00|2.000|0.000,,STKM13A,60.5,0.0,2.0,1036.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+550,C07031,HONDA,|0200226010|54.00|20.00|2.000|0.000,K56-A,STAM390G,54.0,20.0,2.0,560.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+554,C07029,HONDA,|0200226010|28.60|0.00|1.600|0.000,,STAM390G,28.6,0.0,1.6,5220.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+555,C07031,HONDA,|0200226010|28.60|0.00|1.600|0.000,K2ZA/K3AA,STAM390G,28.6,0.0,1.6,5520.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+556,C07002,YAMAHA,|0200220139|19.10|0.00|1.400|0.000,,STKM11A,19.1,0.0,1.4,286.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+557,C07038,TTVN,|0200230841|25.40|0.00|1.000|0.000,,STKM13A,25.4,0.0,1.0,435.0,NBC,Brushing,Cold  Rolled Steel ,,False
+558,C07038,TTVN,|0200226010|25.40|0.00|1.600|0.000,,STAM390G,25.4,0.0,1.6,463.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+559,C07002,YAMAHA,|0200226117|25.40|0.00|1.600|0.000,,STKMHT490,25.4,0.0,1.6,355.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+560,C07031,HONDA,|0200225939|22.20|0.00|2.000|0.000,K2ZA/K3AA,STAM290GA,22.2,0.0,2.0,5931.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+563,C07001,HONDA,|0200225939|19.10|0.00|2.600|0.000,,STAM290GA,19.1,0.0,2.6,5000.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+564,C07031,HONDA,|0200226010|15.90|0.00|1.600|0.000,K2ZA/K3AA,STAM390G,15.9,0.0,1.6,5830.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+566,C07002,YAMAHA,|0200226117|15.90|0.00|1.600|0.000,,STKMHT490,15.9,0.0,1.6,279.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+567,C07038,TTVN,|0200226010|25.40|0.00|1.600|0.000,,STAM390G,25.4,0.0,1.6,443.6,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+568,C07038,TTVN,|0200226010|25.40|0.00|1.600|0.000,,STAM390G,25.4,0.0,1.6,462.8,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+569,C07002,YAMAHA,|0200220810|31.80|0.00|1.600|0.000,,STKM13A,31.8,0.0,1.6,620.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+570,C07001,OTHER,|0200226010|19.10|0.00|2.000|0.000,PIAGIO VN,STAM390G,19.1,0.0,2.0,5300.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+571,C07031,HONDA,|0200226010|22.20|0.00|2.900|0.000,K2ZA/K3AA,STAM390G,22.2,0.0,2.9,5740.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+574,C07001,OTHER,|0200226010|28.60|0.00|2.000|0.000,PIAGIO VN,STAM390G,28.6,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+575,C07031,HONDA,|0200226010|38.10|0.00|2.000|0.000,K2ZA/K3AA,STAM390G,38.1,0.0,2.0,693.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+576,C07002,YAMAHA,|0200220139|22.20|0.00|2.000|0.000,,STKM11A,22.2,0.0,2.0,384.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+577,C07038,TTVN,|0200226010|25.40|0.00|1.600|0.000,,STAM390G,25.4,0.0,1.6,443.4,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+578,C07001,HONDA,|0200226010|54.00|0.00|2.900|0.000,,STAM390G,54.0,0.0,2.9,6366.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+579,C07002,YAMAHA,|0200220810|48.60|0.00|3.200|0.000,,STKM13A,48.6,0.0,3.2,701.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+580,C07031,HONDA,|0200226010|19.10|0.00|2.000|0.000,K1WF,STAM390G,19.1,0.0,2.0,5824.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+581,C07029,HONDA,|0200226010|28.60|0.00|1.600|0.000,K1W,STAM390G,28.6,0.0,1.6,6300.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+582,C07029,HONDA,|0200226010|42.70|0.00|2.300|0.000,,STAM390G,42.7,0.0,2.3,5090.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+583,C07031,HONDA,|0200226010|31.80|0.00|2.600|0.000,,STAM390G,31.8,0.0,2.6,5405.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+584,C07002,YAMAHA,|0200220139|22.20|0.00|2.000|0.000,,STKM11A,22.2,0.0,2.0,353.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+585,C07001,HONDA,|0200226010|19.10|0.00|2.000|0.000,,STAM390G,19.1,0.0,2.0,5500.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+586,C07002,YAMAHA,|0200220139|22.20|0.00|2.000|0.000,,STKM11A,22.2,0.0,2.0,366.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+588,C07029,HONDA,|0200226010|19.10|0.00|1.400|0.000,K2TA,STAM390G,19.1,0.0,1.4,6030.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+591,C07002,YAMAHA,|0200220139|60.50|0.00|2.000|0.000,,STKM11A,60.5,0.0,2.0,1014.0,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+592,C07029,HONDA,|0200226010|22.20|0.00|1.600|0.000,K2ZA,STAM390G,22.2,0.0,1.6,6400.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+593,C07031,HONDA,|0200226010|19.10|0.00|1.400|0.000,K2SG,STAM390G,19.1,0.0,1.4,5820.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+594,C07002,YAMAHA,|0200220139|60.50|0.00|2.000|0.000,,STKM11A,60.5,0.0,2.0,1064.0,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+595,C07002,HONDA USA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,346.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+596,C07029,HONDA,|0200225900|15.00|10.30|2.350|0.000,K2ZA,STAM290GA,15.0,10.3,2.35,6200.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+597,C07031,HONDA,|0200226010|42.70|0.00|1.400|0.000,K2TA,STAM390G,42.7,0.0,1.4,810.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+598,C07031,HONDA,|0200226010|42.70|0.00|1.600|0.000,K2TA,STAM390G,42.7,0.0,1.6,810.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+599,C07002,HONDA USA,|0200226010|31.80|0.00|2.300|0.000,,STAM390G,31.8,0.0,2.3,40.8,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+600,C07029,HONDA,|0200226010|25.40|0.00|1.400|0.000,K2ZA.K3AA,STAM390G,25.4,0.0,1.4,6100.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+601,C07029,HONDA,|0200226010|22.20|0.00|2.000|0.000,K90J,STAM390G,22.2,0.0,2.0,6370.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+602,C07031,OTHER,|0200226240|25.40|0.00|3.200|0.000,NPV,STKMHT590,25.4,0.0,3.2,5920.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+603,C07002,HONDA USA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,280.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+604,C07031,OTHER,|0200220810|38.10|31.75|2.000|0.000,NPV,STKM13A,38.1,31.75,2.0,5050.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+605,C07002,HONDA USA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,310.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+606,C07029,HONDA,|0200226010|22.20|0.00|1.400|0.000,K1W,STAM390G,22.2,0.0,1.4,5190.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+607,C07029,HONDA,|0200226010|22.20|0.00|2.000|0.000,K2TA,STAM390G,22.2,0.0,2.0,5250.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+608,C07031,HONDA,|0200226010|38.10|0.00|2.000|0.000,K2ZA/K3AA,STAM390G,38.1,0.0,2.0,693.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+609,C07002,HONDA USA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,155.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+610,C07002,HONDA USA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,159.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+611,C07031,HONDA,|0200226840|25.40|0.00|3.200|0.000,K2SG,STKM-HT590,25.4,0.0,3.2,5800.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+613,C07029,HONDA,|0200226010|25.40|0.00|1.600|0.000,,STAM390G,25.4,0.0,1.6,5861.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+615,C07002,HONDA USA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,285.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+616,C07002,HONDA USA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,306.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+617,C07031,HONDA,|0200226010|28.60|0.00|1.600|0.000,K2ZA/K3AA,STAM390G,28.6,0.0,1.6,5450.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+619,C07031,HONDA,|0200226010|19.10|0.00|1.600|0.000,K2CA/K2SG,STAM390G,19.1,0.0,1.6,5580.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+620,C07029,HONDA,|0200226010|22.20|0.00|1.600|0.000,K2ZA,STAM390G,22.2,0.0,1.6,5370.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+621,C07002,HONDA USA,|0200226010|19.10|0.00|1.600|0.000,,STAM390G,19.1,0.0,1.6,143.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+622,C07002,HONDA USA,|0200226010|19.10|0.00|1.600|0.000,,STAM390G,19.1,0.0,1.6,156.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+624,C07031,HONDA,|0200226840|25.40|0.00|3.200|0.000,,STKM-HT590,25.4,0.0,3.2,5750.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+625,C07002,HONDA USA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,232.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+626,C07002,HONDA USA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,243.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+627,C07031,HONDA,|0200226010|19.10|0.00|1.400|0.000,,STAM390G,19.1,0.0,1.4,5570.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+628,C07031,HONDA,|0200226010|22.20|0.00|2.000|0.000,,STAM390G,22.2,0.0,2.0,5362.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+629,C07002,HONDA USA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,177.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+630,C07002,HONDA USA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,440.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+631,C07031,HONDA,|0200226010|42.70|0.00|1.400|0.000,,STAM390G,42.7,0.0,1.4,5340.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+632,C07031,HONDA,|0200226010|17.30|0.00|1.600|0.000,,STAM390G,17.3,0.0,1.6,5580.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+633,C07002,HONDA USA,|0200220914|22.20|0.00|1.600|0.000,,STKM14B,22.2,0.0,1.6,500.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+634,C07002,HONDA USA,|0200226240|19.10|0.00|1.500|0.000,,STKMHT590,19.1,0.0,1.5,521.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+635,C07031,OTHER,|0200220810|48.60|0.00|2.000|0.000,YEDEAR,STKM13A,48.6,0.0,2.0,5160.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+636,C07031,OTHER,|0200226010|31.80|0.00|2.000|0.000,YEDEAR,STAM390G,31.8,0.0,2.0,5580.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+637,C07002,HONDA USA,|0200226240|25.40|0.00|2.000|0.000,,STKMHT590,25.4,0.0,2.0,226.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+638,C07002,HONDA USA,|0200226240|25.40|0.00|2.000|0.000,,STKMHT590,25.4,0.0,2.0,249.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+639,C07031,HONDA,|0200226010|22.20|0.00|2.000|0.000,K2ZA/K3AA,STAM390G,22.2,0.0,2.0,5630.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+640,C07031,HONDA,|0200226010|42.70|0.00|1.400|0.000,K2TA,STAM390G,42.7,0.0,1.4,795.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+641,C07002,HONDA USA,|0200226240|25.40|0.00|2.000|0.000,,STKMHT590,25.4,0.0,2.0,264.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+642,C07002,HONDA USA,|0200226240|25.40|0.00|2.000|0.000,,STKMHT590,25.4,0.0,2.0,288.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+643,C07031,HONDA,|0200226010|42.70|0.00|1.400|0.000,K2TA,STAM390G,42.7,0.0,1.4,795.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+644,C07031,HONDA,|0200226010|42.70|0.00|1.600|0.000,K2TA,STAM390G,42.7,0.0,1.6,795.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+645,C07002,HONDA USA,|0200226240|22.20|0.00|2.300|0.000,,STKMHT590,22.2,0.0,2.3,619.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+646,C07002,HONDA USA,|0200226240|22.20|0.00|2.300|0.000,,STKMHT590,22.2,0.0,2.3,188.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+647,C07031,HONDA,|0200226010|42.70|0.00|1.600|0.000,K2TA,STAM390G,42.7,0.0,1.6,795.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+648,C07031,HONDA,|0200225939|22.20|0.00|2.000|0.000,K2ZA/K3AA,STAM290GA,22.2,0.0,2.0,5900.0,NBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+649,C07002,HONDA USA,|0200226240|28.60|0.00|2.600|0.000,,STKMHT590,28.6,0.0,2.6,221.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+650,C07002,HONDA USA,|0200226240|25.40|0.00|2.600|0.000,,STKMHT590,25.4,0.0,2.6,516.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+651,C07002,HONDA USA,|0200226240|25.40|0.00|2.600|0.000,,STKMHT590,25.4,0.0,2.6,228.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+652,C07031,HONDA,|0200226010|28.60|0.00|1.600|0.000,,STAM390G,28.6,0.0,1.6,5941.0,IBC,Piping(Pre-End),"Pickled and Oiled,Hot rolled steel",,False
+653,C07002,HONDA USA,|0200226010|38.10|0.00|3.200|0.000,,STAM390G,38.1,0.0,3.2,84.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+654,C07002,YAMAHA,|0200220139|28.60|0.00|2.600|0.000,,STKM11A,28.6,0.0,2.6,176.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+655,C07002,YAMAHA,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,133.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+656,C07002,YAMAHA,|0200220810|48.60|0.00|3.200|0.000,,STKM13A,48.6,0.0,3.2,709.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+657,C07002,YAMAHA,|0200220139|60.80|0.00|3.800|0.000,,STKM11A,60.8,0.0,3.8,55.0,IBC,As Cut,"Pickled and Oiled,Hot rolled steel",,False
+658,C07002,YAMAHA,|0200226240|35.00|0.00|2.600|0.000,,STKMHT590,35.0,0.0,2.6,463.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+659,C07002,YAMAHA,|0200226240|35.00|0.00|2.600|0.000,,STKMHT590,35.0,0.0,2.6,492.5,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+660,C07002,YAMAHA,|0200226117|19.10|0.00|2.000|0.000,,STKMHT490,19.1,0.0,2.0,1282.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+661,C07002,YAMAHA,|0200226117|19.10|0.00|2.000|0.000,,STKMHT490,19.1,0.0,2.0,726.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+662,C07002,YAMAHA,|0200226117|19.10|0.00|2.000|0.000,,STKMHT490,19.1,0.0,2.0,418.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+663,C07002,YAMAHA,|0200220139|22.20|0.00|1.600|0.000,,STKM11A,22.2,0.0,1.6,705.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+664,C07002,YAMAHA,|0200220139|22.20|0.00|1.600|0.000,,STKM11A,22.2,0.0,1.6,908.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+665,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,2083.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+666,C07002,YAMAHA,|0200220810|38.10|0.00|2.300|0.000,,STKM13A,38.1,0.0,2.3,377.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+667,C07002,YAMAHA,|0200220810|31.80|0.00|2.300|0.000,,STKM13A,31.8,0.0,2.3,844.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+668,C07002,YAMAHA,|0200220810|45.00|0.00|2.300|0.000,,STKM13A,45.0,0.0,2.3,963.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+669,C07002,YAMAHA,|0200226240|31.80|0.00|2.000|0.000,,STKMHT590,31.8,0.0,2.0,594.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+670,C07002,YAMAHA,|0200226240|31.80|0.00|2.000|0.000,,STKMHT590,31.8,0.0,2.0,461.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+671,C07002,YAMAHA,|0200220139|31.80|0.00|2.000|0.000,,STKM11A,31.8,0.0,2.0,799.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+672,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,594.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+673,C07002,YAMAHA,|0200226117|25.40|0.00|2.000|0.000,,STKMHT490,25.4,0.0,2.0,136.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+674,C07002,YAMAHA,|0200226240|31.80|0.00|1.600|0.000,,STKMHT590,31.8,0.0,1.6,745.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+675,C07002,YAMAHA,|0200226117|19.10|0.00|1.600|0.000,,STKMHT490,19.1,0.0,1.6,163.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+676,C07002,YAMAHA,|0200220139|60.50|0.00|2.000|0.000,,STKM11A,60.5,0.0,2.0,1060.0,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+677,C07002,YAMAHA,|0200226117|45.00|0.00|2.300|0.000,,STKMHT490,45.0,0.0,2.3,1220.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+678,C07002,YAMAHA,|0200226117|45.00|0.00|2.300|0.000,,STKMHT490,45.0,0.0,2.3,1260.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+679,C07002,YAMAHA,|0200220139|38.10|0.00|2.300|0.000,,STKM11A,38.1,0.0,2.3,308.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+680,C07002,YAMAHA,|0200220139|25.40|0.00|1.600|0.000,,STKM11A,25.4,0.0,1.6,458.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+681,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,326.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+682,C07002,YAMAHA,|0200226117|25.40|0.00|1.600|0.000,,STKMHT490,25.4,0.0,1.6,667.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+683,C07002,YAMAHA,|0200226117|15.90|0.00|1.600|0.000,,STKMHT490,15.9,0.0,1.6,1677.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+684,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,565.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+685,C07002,YAMAHA,|0200226240|35.00|0.00|2.600|0.000,,STKMHT590,35.0,0.0,2.6,897.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+686,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,425.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+687,C07002,YAMAHA,|0200220810|19.10|0.00|1.600|0.000,,STKM13A,19.1,0.0,1.6,1316.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+689,C07002,YAMAHA,|0200220810|31.80|0.00|2.600|0.000,,STKM13A,31.8,0.0,2.6,351.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+690,C07002,YAMAHA,|0200220810|38.10|0.00|2.600|0.000,,STKM13A,38.1,0.0,2.6,824.7,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+691,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,281.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+692,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,483.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+693,C07002,YAMAHA,|0200226240|25.40|0.00|1.600|0.000,,STKMHT590,25.4,0.0,1.6,222.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+694,C07002,YAMAHA,|0200226240|19.10|0.00|1.600|0.000,,STKMHT590,19.1,0.0,1.6,236.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+695,C07002,YAMAHA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,286.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+696,C07002,YAMAHA,|0200226240|22.20|0.00|2.300|0.000,,STKMHT590,22.2,0.0,2.3,1030.0,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+697,C07002,YAMAHA,|0200230120|15.90|0.00|1.200|0.000,,STKM11A,15.9,0.0,1.2,250.0,NBC,Brushing,Cold  Rolled Steel ,,False
+698,C07002,YAMAHA,|0200230841|12.70|0.00|1.200|0.000,,STKM13A,12.7,0.0,1.2,80.0,NBC,Brushing,Cold  Rolled Steel ,,False
+699,C07002,YAMAHA,|0200226240|35.00|0.00|2.600|0.000,,STKMHT590,35.0,0.0,2.6,432.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+700,C07002,YAMAHA,|0200226240|35.00|0.00|2.600|0.000,,STKMHT590,35.0,0.0,2.6,308.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+701,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,505.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+702,C07002,YAMAHA,|0200226240|35.00|0.00|2.600|0.000,,STKMHT590,35.0,0.0,2.6,863.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+703,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,354.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+704,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,250.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+705,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,383.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+706,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,280.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+707,C07002,YAMAHA,|0200226117|19.10|0.00|2.000|0.000,,STKMHT490,19.1,0.0,2.0,266.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+708,C07002,YAMAHA,|0200220139|28.60|0.00|2.000|0.000,,STKM11A,28.6,0.0,2.0,1070.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+709,C07002,YAMAHA,|0200230120|15.90|0.00|1.200|0.000,,STKM11A,15.9,0.0,1.2,273.0,NBC,Brushing,Cold  Rolled Steel ,,False
+710,C07002,YAMAHA,|0200226117|22.20|0.00|2.300|0.000,,STKMHT490,22.2,0.0,2.3,331.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+711,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,2099.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+712,C07002,YAMAHA,|0200226117|22.20|0.00|2.300|0.000,,STKMHT490,22.2,0.0,2.3,484.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+713,C07002,YAMAHA,|0200220139|60.50|0.00|2.000|0.000,,STKM11A,60.5,0.0,2.0,1020.0,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+714,C07002,YAMAHA,|0200226117|45.00|0.00|2.300|0.000,,STKMHT490,45.0,0.0,2.3,1195.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+715,C07002,YAMAHA,|0200220139|42.70|0.00|2.000|0.000,,STKM11A,42.7,0.0,2.0,214.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+716,C07002,YAMAHA,|0200220139|25.40|0.00|1.600|0.000,,STKM11A,25.4,0.0,1.6,406.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+717,C07002,YAMAHA,|0200226117|25.40|0.00|1.600|0.000,,STKMHT490,25.4,0.0,1.6,635.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+718,C07002,YAMAHA,|0200220139|48.60|0.00|2.000|0.000,,STKM11A,48.6,0.0,2.0,1804.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+719,C07002,YAMAHA,|0200226240|25.40|0.00|2.300|0.000,,STKMHT590,25.4,0.0,2.3,433.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+720,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,1855.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+721,C07002,YAMAHA,|0200220139|48.60|0.00|3.100|0.000,,STKM11A,48.6,0.0,3.1,1830.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+722,C07002,YAMAHA,|0200220810|38.10|0.00|2.300|0.000,,STKM13A,38.1,0.0,2.3,426.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+723,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,2075.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+724,C07002,YAMAHA,|0200226117|22.20|0.00|2.300|0.000,,STKMHT490,22.2,0.0,2.3,845.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+725,C07002,YAMAHA,|0200226117|22.20|0.00|2.300|0.000,,STKMHT490,22.2,0.0,2.3,875.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+726,C07002,YAMAHA,|0200220810|32.00|32.00|2.300|0.000,,STKM13A,32.0,32.0,2.3,1190.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+727,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,1254.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+728,C07002,YAMAHA,|0200226339|40.00|20.00|1.600|0.000,,STKMRR290,40.0,20.0,1.6,453.3,NBC,Grind Face,"Pickled and Oiled,Hot rolled steel",,False
+729,C07002,YAMAHA,|0200226240|60.50|0.00|2.000|0.000,,STKMHT590,60.5,0.0,2.0,254.6,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+730,C07002,YAMAHA,|0200220600|23.00|12.40|5.300|0.000,,STKM12C,23.0,12.4,5.3,96.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+731,C07002,YAMAHA,|0200220600|23.00|12.40|5.300|0.000,,STKM12C,23.0,12.4,5.3,80.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+732,C07002,YAMAHA,|0200220126|42.70|0.00|3.500|0.000,,STKM11A,42.7,0.0,3.5,195.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+733,C07002,YAMAHA,|0200220139|15.90|0.00|1.600|0.000,,STKM11A,15.9,0.0,1.6,120.4,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+734,C07002,YAMAHA,|0200220126|42.70|0.00|3.500|0.000,,STKM11A,42.7,0.0,3.5,261.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+735,C07002,YAMAHA,|0200226339|40.00|20.00|1.600|0.000,,STKMRR290,40.0,20.0,1.6,428.0,NBC,Grind Face,"Pickled and Oiled,Hot rolled steel",,False
+736,C07002,YAMAHA,|0200220126|42.70|0.00|3.500|0.000,,STKM11A,42.7,0.0,3.5,263.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+737,C07002,YAMAHA,|0200220139|29.40|0.00|3.200|0.000,,STKM11A,29.4,0.0,3.2,41.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+738,C07002,YAMAHA,|0200236441|20.00|20.00|1.200|0.000,,STKMRR370,20.0,20.0,1.2,315.0,NBC,Brushing,Cold  Rolled Steel ,,False
+739,C07002,YAMAHA,|0200236441|20.00|20.00|1.200|0.000,,STKMRR370,20.0,20.0,1.2,220.0,NBC,Brushing,Cold  Rolled Steel ,,False
+740,C07002,YAMAHA,|0200220139|28.60|0.00|2.300|0.000,,STKM11A,28.6,0.0,2.3,139.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+741,C07002,YAMAHA,|0200220139|25.40|0.00|3.200|0.000,,STKM11A,25.4,0.0,3.2,242.0,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+742,C07002,YAMAHA,|0200220139|25.40|0.00|3.200|0.000,,STKM11A,25.4,0.0,3.2,49.5,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+743,C07002,YAMAHA,|0200226700|28.00|21.80|3.100|0.000,,STKM13C,28.0,21.8,3.1,55.4,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+744,C07002,YAMAHA,|0200226700|28.00|21.80|3.100|0.000,,STKM13C,28.0,21.8,3.1,224.1,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+745,C07002,YAMAHA,|0200220139|25.40|0.00|3.200|0.000,,STKM11A,25.4,0.0,3.2,44.5,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+746,C07002,YAMAHA,|0200220139|25.40|0.00|3.200|0.000,,STKM11A,25.4,0.0,3.2,214.0,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+747,C07002,YAMAHA,|0200220600|15.00|10.30|2.350|0.000,,STKM12C,15.0,10.3,2.35,103.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+748,C07002,YAMAHA,|0200220139|38.10|0.00|2.600|0.000,,STKM11A,38.1,0.0,2.6,259.8,NBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+749,C07002,YAMAHA,|0200220139|12.70|0.00|1.600|0.000,,STKM11A,12.7,0.0,1.6,411.8,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+816,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,664.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+817,C07002,YAMAHA,|0200226117|28.60|0.00|2.000|0.000,,STKMHT490,28.6,0.0,2.0,388.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+818,C07002,YAMAHA,|0200226240|31.80|0.00|1.600|0.000,,STKMHT590,31.8,0.0,1.6,743.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+819,C07002,YAMAHA,|0200226117|25.40|0.00|1.600|0.000,,STKMHT490,25.4,0.0,1.6,647.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+820,C07002,YAMAHA,|0200226700|46.00|38.00|4.000|0.000,,STKM13C,46.0,38.0,4.0,38.0,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
+821,C07002,YAMAHA,|0200220139|15.90|0.00|2.000|0.000,,STKM11A,15.9,0.0,2.0,190.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+822,C07002,YAMAHA,|0200220139|15.90|0.00|2.000|0.000,,STKM11A,15.9,0.0,2.0,196.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+823,C07002,YAMAHA,|0200220139|15.90|0.00|2.000|0.000,,STKM11A,15.9,0.0,2.0,198.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+824,C07002,YAMAHA,|0200226117|19.10|0.00|2.000|0.000,BKP,STKMHT490,19.1,0.0,2.0,269.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+825,C07002,YAMAHA,|0200226240|19.10|0.00|1.600|0.000,Suzuki,STKMHT590,19.1,0.0,1.6,1745.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+826,C07002,YAMAHA,|0200220810|22.20|0.00|1.400|0.000,Suzuki,STKM13A,22.2,0.0,1.4,2581.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+827,C07002,YAMAHA,|0200220139|50.80|0.00|1.600|0.000,,STKM11A,50.8,0.0,1.6,630.6,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+828,C07002,YAMAHA,|0200226117|19.10|0.00|2.000|0.000,,STKMHT490,19.1,0.0,2.0,275.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+829,C07002,YAMAHA,|0200220139|38.10|0.00|2.300|0.000,,STKM11A,38.1,0.0,2.3,290.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+830,C07002,YAMAHA,|0200220139|22.20|0.00|1.600|0.000,,STKM11A,22.2,0.0,1.6,595.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+831,C07002,SUZUKI,|0200220810|31.80|0.00|1.600|0.000,SUZUKI,STKM13A,31.8,0.0,1.6,1097.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+832,C07002,SUZUKI,|0200220810|19.10|0.00|1.400|0.000,SUZUKI,STKM13A,19.1,0.0,1.4,280.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+833,C07002,SUZUKI,|0200220810|28.60|0.00|1.400|0.000,SUZUKI,STKM13A,28.6,0.0,1.4,266.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+834,C07002,SUZUKI,|0200220810|22.20|0.00|1.400|0.000,SUZUKI,STKM13A,22.2,0.0,1.4,256.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+835,C07002,SUZUKI,|0200220810|22.20|0.00|1.400|0.000,SUZUKI,STKM13A,22.2,0.0,1.4,2595.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+836,C07002,SUZUKI,|0200236211|19.10|0.00|1.200|0.000,SUZUKI,STKMHT590,19.1,0.0,1.2,916.0,NBC,Brushing,Cold  Rolled Steel ,,False
+837,C07002,SUZUKI,|0200220810|25.40|0.00|1.400|0.000,SUZUKI,STKM13A,25.4,0.0,1.4,186.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+838,C07002,SUZUKI,|0200220810|25.40|0.00|1.400|0.000,SUZUKI,STKM13A,25.4,0.0,1.4,288.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+839,C07002,SUZUKI,|0200236211|19.10|0.00|1.200|0.000,SUZUKI,STKMHT590,19.1,0.0,1.2,2180.0,NBC,Brushing,Cold  Rolled Steel ,,False
+840,C07002,SUZUKI,|0200236211|17.30|0.00|1.200|0.000,SUZUKI,STKMHT590,17.3,0.0,1.2,808.0,NBC,Brushing,Cold  Rolled Steel ,,False
+841,C07002,SUZUKI,|0200230841|12.70|0.00|1.200|0.000,SUZUKI,STKM13A,12.7,0.0,1.2,241.0,NBC,Brushing,Cold  Rolled Steel ,,False
+842,C07002,SUZUKI,|0200220810|22.20|0.00|1.600|0.000,SUZUKI,STKM13A,22.2,0.0,1.6,236.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+843,C07002,SUZUKI,|0200220810|22.20|0.00|1.600|0.000,SUZUKI,STKM13A,22.2,0.0,1.6,175.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+844,C07002,YAMAHA,|0200226339|50.00|25.00|2.300|0.000,,STKMRR290,50.0,25.0,2.3,686.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+846,C07002,SUZUKI,|0200220810|22.20|0.00|1.400|0.000,SUZUKI,STKM13A,22.2,0.0,1.4,620.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+847,C07002,SUZUKI,|0200220810|22.20|0.00|1.400|0.000,SUZUKI,STKM13A,22.2,0.0,1.4,641.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+848,C07002,SUZUKI,|0200220810|22.20|0.00|1.400|0.000,SUZUKI,STKM13A,22.2,0.0,1.4,293.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+849,C07002,SUZUKI,|0200220810|22.20|0.00|1.400|0.000,SUZUKI,STKM13A,22.2,0.0,1.4,1306.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+850,C07002,SUZUKI,|0200220810|25.40|0.00|1.400|0.000,SUZUKI,STKM13A,25.4,0.0,1.4,105.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+851,C07002,SUZUKI,|0200220810|25.40|0.00|1.400|0.000,SUZUKI,STKM13A,25.4,0.0,1.4,229.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+852,C07002,SUZUKI,|0200236211|19.10|0.00|1.200|0.000,SUZUKI,STKMHT590,19.1,0.0,1.2,1561.0,NBC,Brushing,Cold  Rolled Steel ,,False
+853,C07002,SUZUKI,|0200236211|19.10|0.00|1.200|0.000,SUZUKI,STKMHT590,19.1,0.0,1.2,650.0,NBC,Brushing,Cold  Rolled Steel ,,False
+854,C07002,SUZUKI,|0200220810|22.20|0.00|1.400|0.000,SUZUKI,STKM13A,22.2,0.0,1.4,120.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+855,C07002,SUZUKI,|0200220810|22.20|0.00|1.400|0.000,SUZUKI,STKM13A,22.2,0.0,1.4,192.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+856,C07002,YAMAHA,|0200225939|19.10|0.00|1.600|0.000,,STAM290GA,19.1,0.0,1.6,135.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+857,C07002,YAMAHA,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,299.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+858,C07002,SUZUKI,|0200230841|17.30|0.00|1.200|0.000,SUZUKI,STKM13A,17.3,0.0,1.2,810.0,NBC,Brushing,Cold  Rolled Steel ,,False
+859,C07002,YAMAHA,|0200230841|15.90|0.00|1.200|0.000,,STKM13A,15.9,0.0,1.2,316.0,NBC,Brushing,Cold  Rolled Steel ,,False
+885,C07002,YAMAHA,|0200226240|28.60|0.00|2.300|0.000,,STKMHT590,28.6,0.0,2.3,664.0,IBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+890,C07002,SUZUKI,|0200230841|12.70|0.00|1.200|0.000,,STKM13A,12.7,0.0,1.2,144.0,NBC,Brushing,Cold  Rolled Steel ,,False
+891,C07002,SUZUKI,|0200226240|22.20|0.00|2.000|0.000,,STKMHT590,22.2,0.0,2.0,570.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+892,C07002,SUZUKI,|0200220810|41.00|0.00|3.500|0.000,,STKM13A,41.0,0.0,3.5,33.0,IBC,As Cut,"Pickled and Oiled,Hot rolled steel",,False
+893,C07002,SUZUKI,|0200226240|22.20|0.00|1.600|0.000,,STKMHT590,22.2,0.0,1.6,210.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+894,C07002,SUZUKI,|0200226540|40.00|25.00|1.400|0.000,,STKMRHT590,40.0,25.0,1.4,527.0,NBC,Brushing,"Pickled and Oiled,Hot rolled steel",,False
+895,C07002,SUZUKI,|0200220810|28.60|0.00|3.200|0.000,,STKM13A,28.6,0.0,3.2,137.2,IBC,Chamfer,"Pickled and Oiled,Hot rolled steel",,False
